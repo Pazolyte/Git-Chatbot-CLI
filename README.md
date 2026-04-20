@@ -4,7 +4,7 @@ An AI-powered CLI tool that clones GitHub repositories and allows you to interac
 
 ## ⚡ Quick Start (Under 30 Seconds)
 
-1. **Extract this folder** to your desired location
+1. **Create a folder** in your desired location and put all the files into it
 2. **Open terminal/command prompt** in the `git-chatbot-cli` directory
 3. **Run the setup commands**:
    ```bash
