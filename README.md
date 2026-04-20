@@ -88,8 +88,8 @@ If you encounter issues:
 
 ```
 git-chatbot-cli/
-├── index.js          # Main application (~20KB)
-├── package.json      # Dependency list (~0.4KB)
+├── Source          # Node_modules (~250MB)
+├── Gitattributes      # Dependency list (~0.4KB)
 ├── README.md         # This file (~4KB)
 ├── .env.example      # Config template (~0.3KB)
 └── .gitignore       # Upload prevention (~1.5KB)
