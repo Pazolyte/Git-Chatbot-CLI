@@ -96,7 +96,7 @@ git-chatbot-cli/
 ```
 
 After first run, these additional folders are created locally:
-- `node_modules/` - Dependencies (~250MB, **NOT uploaded**)
+- `node_modules/` - Dependencies (~250MB, **Uploaded in Source-Folder**)
 - `.env` - Your encrypted API key
 - Temporary caches and logs
 
